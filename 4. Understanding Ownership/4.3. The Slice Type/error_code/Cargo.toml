@@ -1,6 +1,5 @@
-workspace = { members = ["error_code"] }
 [package]
-name = "qwer1"
+name = "error_code"
 version = "0.1.0"
 edition = "2021"
 
