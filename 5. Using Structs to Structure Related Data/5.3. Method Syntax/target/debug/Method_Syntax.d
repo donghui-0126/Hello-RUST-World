@@ -1,0 +1,1 @@
+/root/Hello-RUST-World/5.\ Using\ Structs\ to\ Structure\ Related\ Data/5.3.\ Method\ Syntax/target/debug/Method_Syntax: /root/Hello-RUST-World/5.\ Using\ Structs\ to\ Structure\ Related\ Data/5.3.\ Method\ Syntax/src/main.rs

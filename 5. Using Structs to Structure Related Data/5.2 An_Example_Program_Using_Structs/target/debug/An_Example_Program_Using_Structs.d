@@ -1,0 +1,1 @@
+/root/Hello-RUST-World/5.\ Using\ Structs\ to\ Structure\ Related\ Data/5.2\ An_Example_Program_Using_Structs/target/debug/An_Example_Program_Using_Structs: /root/Hello-RUST-World/5.\ Using\ Structs\ to\ Structure\ Related\ Data/5.2\ An_Example_Program_Using_Structs/src/main.rs
