@@ -1,0 +1,1 @@
+/root/Hello-RUST-World/13.\ Functional\ Language\ Features\ Iterators\ and\ Closures/13.2\ Processing_a_Series_of_Items_with_Iterators/target/debug/Processing_a_Series_of_Items_with_Iterators: /root/Hello-RUST-World/13.\ Functional\ Language\ Features\ Iterators\ and\ Closures/13.2\ Processing_a_Series_of_Items_with_Iterators/src/main.rs
