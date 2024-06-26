@@ -1,0 +1,1 @@
+/root/Hello-RUST-World/16.\ Fearless\ Concurrency/16.2\ Using_Message_Passing_to_Transfer_Data_Between_Threads/target/debug/Using_Message_Passing_to_Transfer_Data_Between_Threads: /root/Hello-RUST-World/16.\ Fearless\ Concurrency/16.2\ Using_Message_Passing_to_Transfer_Data_Between_Threads/src/main.rs
