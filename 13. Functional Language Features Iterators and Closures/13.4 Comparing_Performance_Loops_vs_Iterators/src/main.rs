@@ -1,3 +1,1 @@
-fn main() {
-    println!("Hello, world!");
-}
+// 클로저와 반복자가 빠르다!!

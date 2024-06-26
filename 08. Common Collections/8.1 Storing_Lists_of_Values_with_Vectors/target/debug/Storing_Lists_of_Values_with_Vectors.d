@@ -1,0 +1,1 @@
+/root/Hello-RUST-World/8.\ Common\ Collections/8.1\ Storing_Lists_of_Values_with_Vectors/target/debug/Storing_Lists_of_Values_with_Vectors: /root/Hello-RUST-World/8.\ Common\ Collections/8.1\ Storing_Lists_of_Values_with_Vectors/src/main.rs

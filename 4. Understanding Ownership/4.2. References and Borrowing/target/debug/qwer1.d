@@ -1,1 +1,0 @@
-/root/Hello-RUST-World/4.\ Understanding\ Ownership/4.2.\ References\ and\ Borrowing/target/debug/qwer1: /root/Hello-RUST-World/4.\ Understanding\ Ownership/4.2.\ References\ and\ Borrowing/src/main.rs

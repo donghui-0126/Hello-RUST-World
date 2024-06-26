@@ -1,0 +1,1 @@
+/root/Hello-RUST-World/6.\ Enums\ and\ Pattern\ Matching/6.1\ Defining_an_Enum/target/debug/Defining_an_Enum: /root/Hello-RUST-World/6.\ Enums\ and\ Pattern\ Matching/6.1\ Defining_an_Enum/src/main.rs

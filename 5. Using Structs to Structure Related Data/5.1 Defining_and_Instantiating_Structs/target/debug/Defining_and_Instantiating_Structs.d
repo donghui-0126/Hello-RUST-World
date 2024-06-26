@@ -1,1 +1,0 @@
-/root/Hello-RUST-World/5.\ Using\ Structs\ to\ Structure\ Related\ Data/5.1\ Defining_and_Instantiating_Structs/target/debug/Defining_and_Instantiating_Structs: /root/Hello-RUST-World/5.\ Using\ Structs\ to\ Structure\ Related\ Data/5.1\ Defining_and_Instantiating_Structs/src/main.rs
