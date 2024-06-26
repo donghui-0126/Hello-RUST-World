@@ -1,0 +1,8 @@
+[package]
+name = "Treating_Smart_Pointers_Like_Regular_References_with_the_Deref_Trait"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
